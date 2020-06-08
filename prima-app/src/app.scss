@@ -1,0 +1,17 @@
+$color-font: #560aa8;
+$background-color: #d3d3d3;
+
+body {
+    width: 100%;
+    height: 100px;
+}
+
+main {
+    margin: auto;
+    background-color: $background-color;
+}
+
+h2 , h3 {
+    text-align: center;
+    color: $color-font;
+}
